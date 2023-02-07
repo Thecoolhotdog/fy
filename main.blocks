@@ -1,0 +1,49 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="RBr~J4_O$?R-3`q(]S%j">plats</variable></variables><block type="pxt-on-start" id="Kod5x|1o{Zx.n:O;0xAH" x="0" y="0"></block><block type="device_forever" id="|XUc9?!:hpQ|*Qk*wP_H" x="195" y="4"></block><block type="device_button_event" id="[luCK40}U?YbLue$^*=e" x="303" y="181"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="D|GVe=]yt$xYal%8Pr@a"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="Of?B@mFODj]wa`1]C?!."><field name="LEDS">`
+        . # # . . 
+        . # # # . 
+        . . # # # 
+        . # . # # 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="LDbqk:J/r#JHz,QNL$gH"><field name="LEDS">`
+        . . . # # 
+        . . . # # 
+        # # # # # 
+        . . . # # 
+        . . . # #
+        `</field><next><block type="device_show_leds" id="IJ|B8[k6mo$$($E7U7bq"><field name="LEDS">`
+        # . . . . 
+        . # . # # 
+        . . # # # 
+        . # # # . 
+        . # # . .
+        `</field><next><block type="device_show_leds" id="}E2OXi*`6eVCcV8DN_KY"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="-/s.+rm7Pgb#0l?f^Kke"><field name="LEDS">`
+        . . . . # 
+        # # . # . 
+        # # # . . 
+        . # # # . 
+        . . # # .
+        `</field><next><block type="device_show_leds" id="j)o[{Qbb5fuNLl(Hr|c_"><field name="LEDS">`
+        # # . . . 
+        # # . . . 
+        # # # # # 
+        # # . . . 
+        # # . . .
+        `</field><next><block type="device_show_leds" id="8twr%W%TlpH0;lE`_V:w"><field name="LEDS">`
+        . . # # . 
+        . # # # . 
+        # # # . . 
+        # # . # . 
+        . . . . #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="/V7ey}BQ9}?|pBB(S9[e" disabled="true" x="15" y="253"><field name="NAME">Button.A</field></block></xml>
